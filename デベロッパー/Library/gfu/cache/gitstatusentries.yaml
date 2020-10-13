@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-10-13T14:02:24.522+09:00
+  initializedAtString: 2020-10-13T10:23:51.249+09:00
+  entries:
+  - path: Assets\Scenes\Attack.cs
+    fullPath: "C:\\Users\\GA2B\\Desktop\\\u30C7\u30D9\u30ED\u30C3\u30D1\u30FC\\Assets\\Scenes\\Attack.cs"
+    projectPath: Assets\Scenes\Attack.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Attack.cs.meta
+    fullPath: "C:\\Users\\GA2B\\Desktop\\\u30C7\u30D9\u30ED\u30C3\u30D1\u30FC\\Assets\\Scenes\\Attack.cs.meta"
+    projectPath: Assets\Scenes\Attack.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\AttackScene.unity
+    fullPath: "C:\\Users\\GA2B\\Desktop\\\u30C7\u30D9\u30ED\u30C3\u30D1\u30FC\\Assets\\Scenes\\AttackScene.unity"
+    projectPath: Assets\Scenes\AttackScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\AttackScene.unity.meta
+    fullPath: "C:\\Users\\GA2B\\Desktop\\\u30C7\u30D9\u30ED\u30C3\u30D1\u30FC\\Assets\\Scenes\\AttackScene.unity.meta"
+    projectPath: Assets\Scenes\AttackScene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\DropDown.cs
+    fullPath: "C:\\Users\\GA2B\\Desktop\\\u30C7\u30D9\u30ED\u30C3\u30D1\u30FC\\Assets\\Scenes\\DropDown.cs"
+    projectPath: Assets\Scenes\DropDown.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\DropDown.cs.meta
+    fullPath: "C:\\Users\\GA2B\\Desktop\\\u30C7\u30D9\u30ED\u30C3\u30D1\u30FC\\Assets\\Scenes\\DropDown.cs.meta"
+    projectPath: Assets\Scenes\DropDown.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SwitchScene.cs
+    fullPath: "C:\\Users\\GA2B\\Desktop\\\u30C7\u30D9\u30ED\u30C3\u30D1\u30FC\\Assets\\Scenes\\SwitchScene.cs"
+    projectPath: Assets\Scenes\SwitchScene.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SwitchScene.cs.meta
+    fullPath: "C:\\Users\\GA2B\\Desktop\\\u30C7\u30D9\u30ED\u30C3\u30D1\u30FC\\Assets\\Scenes\\SwitchScene.cs.meta"
+    projectPath: Assets\Scenes\SwitchScene.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: "C:\\Users\\GA2B\\Desktop\\\u30C7\u30D9\u30ED\u30C3\u30D1\u30FC\\ProjectSettings\\QualitySettings.asset"
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: "C:\\Users\\GA2B\\Desktop\\\u30C7\u30D9\u30ED\u30C3\u30D1\u30FC\\ProjectSettings\\UnityConnectSettings.asset"
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
