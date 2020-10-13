@@ -8,7 +8,7 @@ public class SceneTitle : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //tes
+        //testes
 
     }
 
